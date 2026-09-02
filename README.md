@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARI HARAN</h1>
-<h3 align="center">I'm a Java Developer</h3>
+<h3 align="center">I'm a Full-Stack Developer</h3>
 
-<p align="center">I’m passionate about backend development and growing as a full-stack Java Developer. I love building practical, real-world applications using Java, Spring Boot, MySQL, and MongoDB. I also have some frontend experience with React.js.</p>
+<p align="center">I’m passionate about backend development and growing as a full-stack Developer. I love building practical, real-world applications using Java, Spring Boot, nodeJs , expressLs ,MySQL, and MongoDB. I also have some frontend experience with React.js.</p>
 
 ---
 
