@@ -1,58 +1,240 @@
-<h1 align="center">Hi 👋, I'm HARI HARAN</h1>
-<h3 align="center">I'm a Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Hari Haran</h1>
 
-<p align="center">I’m passionate about backend development and growing as a full-stack Developer. I love building practical, real-world applications using Java, Spring Boot, nodeJs , expressLs ,MySQL, and MongoDB. I also have some frontend experience with React.js.</p>
+<h3 align="center">
+Full-Stack Developer | Java & Spring Boot | React | Node.js
+</h3>
 
----
+<p align="center">
+  <a href="https://github.com/haranhd">
+    <img src="https://komarev.com/ghpvc/?username=haranhd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-### 💻 About Me
-
-- 🔭 I'm interested in **Backend Development using Java and Spring Boot**
-- 🌱 Currently learning more about **full-stack development and system design**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, and MySQL**
-- 📫 How to reach me: **haricode04@gmail.com**
-- 🧠 Projects I’ve built:
-  - 📚 Library Management System (Java + MySQL)
-  - 💬 Real-Time Chat Application (WebSocket + Spring Boot)
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haranhd&label=Profile%20views&color=0e75b6&style=flat" alt="haranhd" /> </p>
-
-### 🔗 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/hari haran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari haran" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/haran_hd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haran_hd" height="30" width="40" /></a>
+<p align="center">
+  <b>I build modern websites, web applications, REST APIs and practical digital solutions for businesses and startups.</b>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+## 👨‍💻 About Me
+
+Hi, I'm **Hari Haran**, a Full-Stack Developer and Freelance Developer passionate about building practical, scalable and user-friendly digital solutions.
+
+I work mainly with **Java, Spring Boot, React, Node.js, Express.js, MySQL and MongoDB**.
+
+I enjoy taking an idea from concept to a working application — from designing the frontend and developing APIs to connecting databases and deploying the final product.
+
+### 🚀 What I Do
+
+- 🌐 Business Websites & Landing Pages
+- 💻 Full-Stack Web Applications
+- ⚙️ REST API Development
+- 🔐 Authentication & Authorization
+- 🗄️ MySQL & MongoDB Database Integration
+- 💳 Payment Gateway Integration
+- 📊 Admin Dashboards & Management Systems
+- 📱 Responsive React Applications
+- 🔗 Third-Party API Integrations
+- 🚀 Deployment & Production Setup
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" 
-       alt="nodejs" width="40" height="40"/>
-</a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
-       alt="express" width="40" height="40"/>
-</a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</p>
+
+### 🌐 Frontend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/>
 </p>
 
 ---
 
-🌟 _Thanks for visiting my profile! Feel free to check out my repositories and connect with me on LinkedIn._
+## 🚀 Featured Projects
 
+### 🌾 AI Farming Platform
+
+An AI-powered farming platform designed to provide farmers with useful agricultural information and services.
+
+**Tech Stack:**
+`React` `Flask` `MongoDB` `AI/ML` `Weather API`
+
+**Key Features:**
+- 🤖 AI-powered farming chatbot
+- 🌦️ Weather information
+- 🛒 Agricultural marketplace
+- 🔐 User authentication
+- 🌱 Farming-related assistance
+- 🎙️ Voice interaction support
+
+🔗 **Repository:** [AI Farming](https://github.com/haranHD/S8_AI-Farming)
+
+---
+
+### ⚖️ eCourt – Case Search & Management System
+
+A web application designed to search and manage Indian court case information using CNR-based search.
+
+**Tech Stack:**
+`.NET 8` `React` `PostgreSQL` `Entity Framework Core` `Playwright`
+
+**Key Features:**
+- 🔎 CNR case search
+- 📋 Saved cases
+- 👤 User dashboard
+- 🗄️ PostgreSQL database
+- 🌐 Automated web interaction
+- 📊 Case management interface
+
+🔗 **Repository:** [eCourt](https://github.com/haranHD/eCourt)
+
+---
+
+### 📚 Library Management System
+
+A Java-based application for managing books, users and library operations.
+
+**Tech Stack:**
+`Java` `MySQL`
+
+**Key Features:**
+- 📖 Book management
+- 👤 User management
+- 🔄 Issue & return management
+- 🗄️ MySQL database integration
+
+---
+
+### 💬 Real-Time Chat Application
+
+A real-time communication application built using WebSocket technology.
+
+**Tech Stack:**
+`Java` `Spring Boot` `WebSocket`
+
+**Key Features:**
+- 💬 Real-time messaging
+- 🔌 WebSocket communication
+- 👥 Multiple user support
+- ⚡ Real-time message delivery
+
+---
+
+## 💼 Freelance Development
+
+I also work as a **Freelance Web & Application Developer**, helping businesses and individuals build their digital presence and custom applications.
+
+### I can help with:
+
+🌐 **Business Websites**
+
+Modern, responsive websites for businesses, startups and personal brands.
+
+💻 **Web Applications**
+
+Custom applications designed around specific business requirements.
+
+⚙️ **Backend Systems**
+
+REST APIs, authentication, database systems and business logic.
+
+📊 **Admin Dashboards**
+
+Management dashboards for handling business data and operations.
+
+🔗 **API Integrations**
+
+Third-party API, payment and external service integrations.
+
+📱 **Responsive Applications**
+
+Applications designed to work smoothly across desktop, tablet and mobile devices.
+
+---
+
+## 📈 Currently Learning
+
+- ☕ Advanced Java
+- 🌱 Spring Boot
+- ⚛️ Advanced React
+- 🏗️ System Design
+- 🔐 Backend Security
+- ☁️ Cloud & Deployment
+- 🚀 Scalable Application Architecture
+- 🔎 SEO & Web Performance
+
+---
+
+## 🎯 My Development Philosophy
+
+> **Build practical solutions, write clean code, and continuously improve.**
+
+I believe a good application is not just about writing code.
+
+It should be:
+
+- ⚡ Fast
+- 📱 Responsive
+- 🔐 Secure
+- 🎨 User-friendly
+- 🧩 Maintainable
+- 📈 Scalable
+
+---
+
+## 🧩 Development Workflow
+
+```text
+Idea
+  ↓
+Requirement Analysis
+  ↓
+UI / UX Planning
+  ↓
+Frontend Development
+  ↓
+Backend & API Development
+  ↓
+Database Integration
+  ↓
+Testing
+  ↓
+Deployment
+  ↓
+Maintenance & Improvements
