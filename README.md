@@ -6,7 +6,7 @@ Full-Stack Developer | Java & Spring Boot | React | Node.js
 
 <p align="center">
   <a href="https://github.com/haranhd">
-    <img src="https://komarev.com/ghpvc/?username=haranhd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="github_banner.png" alt="Profile Views" />
   </a>
 </p>
 
